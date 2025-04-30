@@ -1,13 +1,12 @@
 
-# Call Centre Analysis
+## Call Centre Analysis
 
 In this project, I analyzed a dataset of 5,000 call centre records from January to March, focusing on key metrics like call handling, resolution rates, agent performance, and customer satisfaction.
 
-##  Objective
-
+###  Objective
 To identify trends in service delivery and agent performance, with the goal of improving efficiency and customer experience.
 
-##  Key Insights 
+###  Key Insights 
 
 - **Call Handling**: 81% of calls were answered, while 19% went unanswered, highlighting areas to improve response times.  
 - **Resolution Efficiency**: 73% of calls were resolved, with 27% unresolved, showing areas to improve resolution 
