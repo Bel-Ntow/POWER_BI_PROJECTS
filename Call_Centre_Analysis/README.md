@@ -14,5 +14,6 @@ To identify trends in service delivery and agent performance, with the goal of i
 - **Monthly Trends**: The number of calls answered was highest in January (1,455), followed by March (1,301) and February (1,298), indicating some seasonal fluctuations in call volume.
 
 
-![Dashboard](https://github.com/Bel-Ntow/POWER_BI_PROJECTS/blob/main/images/call_center_dashboard.png)
+<img src="POWER_BI_PROJECTS/Call_Centre_Dashboard.png" style="width: 100%; height: auto;">
+
 
