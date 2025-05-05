@@ -13,7 +13,7 @@ To identify trends in service delivery and agent performance, with the goal of i
 - **Agent Performance**: Jim answered the most calls, and the overall customer satisfaction rating was 2.76, suggesting potential for enhancing agent performance and training to boost satisfaction. 
 - **Monthly Trends**: The number of calls answered was highest in January (1,455), followed by March (1,301) and February (1,298), indicating some seasonal fluctuations in call volume.
 
-<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Call_Centre_Analysis/Call_Centre_Dashboard.png" style="width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Call_Centre_Analysis/Call_Centre_Dashboard.png" >
 
 
 
