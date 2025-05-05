@@ -19,3 +19,4 @@ To evaluate and compare sales performance between Store A and Store B, identify 
 - **Monthly Sales Trends**: Sales peaked in **June** and were lowest in **December**, suggesting seasonal demand fluctuations. The year-end drop may indicate a need for targeted promotions during the holiday season.
 
 
+<img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Retail_Sales_Analysis/Retail_Sales_Performance_Dashboard.png">
