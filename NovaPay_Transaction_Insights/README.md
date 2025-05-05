@@ -1,4 +1,4 @@
-## NovaPay Transaction Insights
+## NovaPay Transaction Analysis
 This project analyzes transaction data from NovaPay (a pseudonym), a fintech company providing mobile money services, digital payments, and micro-lending solutions in Ghana.
 
 
