@@ -22,5 +22,5 @@ NovaPay achieved a **92%** transaction success rate with an **8%** failure rate 
 - **Device Platform Usage :**
 **Android** was the most used platform **(37 transactions)** followed by **iOS (33)** and **USSD (30)**. However, **Android** and **USSD** each had the highest number of failed transactions **(3 each)**, highlighting the need for further technical review and optimization.
 
-  <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/NovaPay_Transaction_Insights/NovaPay_Transaction_Analysis_Dashboard.png" style="width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/NovaPay_Transaction_Insights/NovaPay_Transaction_Analysis_Dashboard.png" >
 
