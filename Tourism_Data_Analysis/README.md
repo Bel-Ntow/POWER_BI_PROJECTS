@@ -14,3 +14,5 @@ To analyze tourism data to identify key regional trends, customer behavior, and 
 - **Customer Satisfaction**:   The **South** had the highest satisfaction at **4.5**, compared to the **Central region’s 3.9**, which is the lowest. To boost satisfaction, the Central region could benefit from improved service quality, staff training, and better amenities.
 
 - **Seasonality of Tourist Activity**:   Tourist visits peak **mid-year** but decline toward **year-end**, indicating strong seasonality. To mitigate the drop in activity during the off-peak months, introducing off-season promotions and targeted marketing campaigns can help sustain interest and generate steady revenue throughout the year.
+
+  <img src="https://raw.githubusercontent.com/Bel-Ntow/POWER_BI_PROJECTS/main/Tourism_Data_Analysis/Tourism_Data_Analytics_Dashboard.png">
